@@ -36,9 +36,56 @@ A Real-Time Embedded System is strictly time specific which means these embedded
 
 #### Stand Alone Embedded Systems :
 Stand Alone Embedded Systems are independent systems which can work by themselves they don’t depend on a host system. It takes input in digital or analog form and provides the output.
->Examples :
->
->MP3 players
->Microwave ovens
->calculator
->
+
+Examples :
+1. MP3 players
+2. Microwave ovens
+3. calculator
+
+#### Networked Embedded Systems :
+Networked Embedded Systems are connected to a network which may be wired or wireless to provide output to the attached device. 
+
+Examples :
+1. Home security systems
+2. ATM machine
+#### Mobile Embedded Systems :
+Mobile embedded systems are small and easy to use and requires less resources.
+
+Examples :
+1.MP3 player
+2.Mobile phones
+3.Digital Camera
+### Based on Performance and micro-controller it is divided into 3 types as follows :
+
+#### 1. Small Scale Embedded Systems :
+#### 2.Medium Scale Embedded Systems :
+#### 3.Sophisticated or Complex Embedded Systems :
+
+## Design metric of embedded system
+A design metric is a way to objectively evaluate a design. 
+1. Market Need/Requirment
+2. cost
+3. size
+4. Efficeincy
+5. performance |---Throughput
+               |---Latency
+6. Energy Consumption
+7. Energy cost
+8. Manufacturing Cost
+## RISC (Reduced Instruction Set Computer):
+In the RISC architecture, the instruction set of the computer system is simplified to reduce the execution time. RISC architecture has a small set of instructions that generally includes register-to-register operations.
+
+* A RISC processor has a few instructions.
+* RISC processor has a few addressing modes.
+* Memory requirement is more.
+* In the RISC processor, all operations are performed within the registers of the CPU.
+* RISC processor can be of fixed-length.
+* RISC can be hardwired rather than micro-programmed control.
+* RISC is used for single-cycle instruction execution.
+* Less Hardware is required in terms of decode instruction.
+## CISC (Complex Instruction Set Computer):
+The CISC architecture comprises a complex instruction set. A CISC processor has a variable-length instruction format.
+* More Instruction
+* More Addressing Modes.
+* More Hardware is required in terms of decode instruction.
+* Memory requirement is less.
