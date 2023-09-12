@@ -89,3 +89,9 @@ The CISC architecture comprises a complex instruction set. A CISC processor has 
 * More Addressing Modes.
 * More Hardware is required in terms of decode instruction.
 * Memory requirement is less.
+<img width="600" alt="Screenshot 2023-09-12 170602" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/9e6ed43d-9987-4ed2-9b8c-391e6d7aa597">
+<img width="600" alt="Screenshot 2023-09-12 182313" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/1236e940-b17e-486f-ab6d-3d5adc355090">
+<img width="600" alt="Screenshot 2023-09-12 183947" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/9591a63c-7cac-43cc-b983-e3fcda2d85bb">
+<img width="600" alt="Screenshot 2023-09-12 184002" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/91dac4f3-fbbc-424d-9837-bc61e8a321dd">
+
+
