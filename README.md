@@ -102,6 +102,7 @@ The CISC architecture comprises a complex instruction set. A CISC processor has 
 <img width="600" alt="Screenshot 2023-09-13 130101" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/ee60f787-a769-47b8-8917-f6e57b0cfadf">
 <img width="600" alt="Screenshot 2023-09-14 161638" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/b7a8a262-6ba4-484f-b561-8ac161a59259">
 <img width="600" alt="Screenshot 2023-09-14 163130" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/80b442b8-8925-4319-b813-0098b288a57c">
+<img width="600" alt="Screenshot 2023-09-14 165140" src="https://github.com/MohdAqib8267/Embedded-system/assets/106628860/4e6447a9-6869-453e-8098-89abafc235ab">
 
 
 
